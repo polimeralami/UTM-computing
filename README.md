@@ -26,8 +26,8 @@ WHERE IS THE FILE THAT I WANT?
 4. Yeay! You found your files!!
 
 Addition for unexpected matter:
-5. Search in other course that same subject if you could not find the files.
-6. Contact the academic coordinator if there are no files that you need.
+1. Search in other course that same subject if you could not find the files.
+2. Contact the academic coordinator if there are no files that you need.
 
 
 Any problems or further question, please contact me directly.
