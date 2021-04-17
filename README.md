@@ -6,13 +6,12 @@ The concept is: "Dari kita, untuk kita."
 
 
 UPLOAD / UPDATE RULES:
-1. Only student from UTM School of Computing are allowed to (directly) add necessary files after given permission from repository owner.
-2. Please create a new branch every new updates. Do not commit in main branch.
-3. Give a good commit message.
-4. Report to repository owner for every new updates.
-5. Files including: slides, videos, exercises, labs, and project reports. Uploading answers are Prohibited.
-6. Uploading something outside computing courses are Prohibited.
-7. Intentionally ruin the courses files are Prohibited.
+1. Only repository owner and editor are allowed to (directly) add / change files.
+2. Other students may upload or add new files inside the given gdrive (Gdrive link is available at academic-hub, CIU via discord).
+3. Report to repository owner for every new updates.
+4. Allowed files including: slides, videos, exercises, labs, and project reports. Uploading answers are Prohibited.
+5. Uploading something outside computing courses are Prohibited.
+6. Intentionally ruin the courses files are Prohibited.
 
 USER RULES:
 1. For public use.
